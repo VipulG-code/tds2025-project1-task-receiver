@@ -1,0 +1,11 @@
+{
+  "email": "23f1002090@ds.study.iitm.ac.in",
+  "secret": "ProjectSecret123!",
+  "task": "example-task-id",
+  "round": 1,
+  "nonce": "unique-nonce-value",
+  "brief": "Write the project brief here.",
+  "checks": [],
+  "evaluation_url": "http://example.com/notify",
+  "attachments": []
+}
